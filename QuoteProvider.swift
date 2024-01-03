@@ -9,8 +9,9 @@ import Foundation
 
 struct QuoteProvider {
     static let quotes = [
-        "The only way to do great work is to love what you do. – Steve Jobs",
-        "The journey of a thousand miles begins with one step. – Lao Tzu",
+        "You don't know me son!",
+        "Who's going to carry the boats and the logs?",
+        "I don't stop when i'm tired, I stop when i'm done."
         // Add more quotes here
     ]
 

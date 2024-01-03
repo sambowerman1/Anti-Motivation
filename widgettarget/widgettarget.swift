@@ -45,7 +45,9 @@ struct WidgetEntryView : View {
 
     var body: some View {
         Text(entry.quote)
-            // You can style this text view as you like
+            .containerBackground(for: .widget) {
+                Color(UIColor.systemBackground)
+            }
     }
 }
 
@@ -58,6 +60,8 @@ struct widgettarget: Widget {
         }
         .configurationDisplayName("Daily Quote")
         .description("Displays a different quote each day.")
+        .supportedFamilies([.systemSmall, .systemMedium, .systemLarge, .accessoryInline, .accessoryCircular, .accessoryRectangular])
+        .contentMarginsDisabled()
     }
 }
 
