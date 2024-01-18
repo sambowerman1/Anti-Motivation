@@ -4,8 +4,50 @@ Anti-Motivation displays Anti-Motivational quotes on your lockscreen and homescr
 ---
 ## Screenshots
 
-![Alt Text](https://private-user-images.githubusercontent.com/119436495/297774309-9d7783fb-4321-47ed-9eaf-c8ad1ed440d7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1ODg4NjksIm5iZiI6MTcwNTU4ODU2OSwicGF0aCI6Ii8xMTk0MzY0OTUvMjk3Nzc0MzA5LTlkNzc4M2ZiLTQzMjEtNDdlZC05ZWFmLWM4YWQxZWQ0NDBkNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExOFQxNDM2MDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MDBmMjk0N2Y0OWIyODE1ZTMyMzk0Zjk3ODg3N2MxOWQ1YjVhNjcwYzk4Yjg5NDVkNjA5OWZkYWYzY2JkZWQ1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.sC2z6ED4fQIJ5aFgqgV8CW3K0lC6-Z_BTj46MepJmls)
-![Alt Text](https://private-user-images.githubusercontent.com/119436495/297775153-02e03c97-44e2-4288-89b5-c7681251c334.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1ODg5NTksIm5iZiI6MTcwNTU4ODY1OSwicGF0aCI6Ii8xMTk0MzY0OTUvMjk3Nzc1MTUzLTAyZTAzYzk3LTQ0ZTItNDI4OC04OWI1LWM3NjgxMjUxYzMzNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExOFQxNDM3MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNzI4MGE0YjY3MjAyMTkwODcwNDJiZTJiZTAzN2JiMzFiY2VlMzc3YTI0Nzg2OWJiODNlYWI0ZWNlYjVhMmU3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ElpOgmRXU84x4iJTahwYtvDUoKwoWxBMTS76vkdKO64)
-![Alt Text](https://private-user-images.githubusercontent.com/119436495/297775420-fc01378f-21e6-42e9-9d2f-27ca375e7bc1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1ODkwMDcsIm5iZiI6MTcwNTU4ODcwNywicGF0aCI6Ii8xMTk0MzY0OTUvMjk3Nzc1NDIwLWZjMDEzNzhmLTIxZTYtNDJlOS05ZDJmLTI3Y2EzNzVlN2JjMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExOFQxNDM4MjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNjI4OGZhNjM1ZDA2MTNhNzExMGU1Y2JjM2JjZjNjYjgyYTJkYmU0Zjc4YWY0ZjQwMTdjNTRjMGM4MWZlN2NiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.xHeq0C-_X7RPTDCaOkkogU9yVbK7uL73bdA-1Xan8O8)
+![Alt Text](https://private-user-images.githubusercontent.com/119436495/297846175-672cd520-9d17-41c1-ae91-c733587b0729.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU2MDMyNjUsIm5iZiI6MTcwNTYwMjk2NSwicGF0aCI6Ii8xMTk0MzY0OTUvMjk3ODQ2MTc1LTY3MmNkNTIwLTlkMTctNDFjMS1hZTkxLWM3MzM1ODdiMDcyOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExOFQxODM2MDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNTIzNjg1OWQyMjRjOGFkZDkyNTQwYzcyZThmMjBmNWIyOWUyNTNlN2I4ZjMxYWU4Zjc0NDFiMjI0ZGQwZWZkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.nSVwLggF6fjTlMlqs2_nBI7QWsdMNrU_as0fjnnAiEw)
+
+## Installation
+To install the Anti-Motivation App on your iOS device, follow these steps:
+
+### 1. Clone the GitHub Repository:
+Open your terminal and run the following command to clone the Anti-Motivation GitHub repository to your local machine:
 
 
+git clone https://github.com/sambowerman/Anti-Motivation.git
+### 2. Open the Project in Xcode:
+
+Make sure you have Xcode installed on your Mac. Open Xcode and select "Open a project or file." Navigate to the directory where you cloned the repository and select the .xcodeproj file.
+
+### 3. Configure Your Development Team:
+If you haven't already, you'll need to configure your development team in Xcode. Go to "Signing & Capabilities" in your project settings and select your team or create a new one.
+
+### 4. Connect Your iOS Device:
+Connect your iOS device to your Mac using a USB cable.
+
+### 5. Select Your Device:
+In Xcode, select your connected iOS device as the build target.
+
+### 6. Build and Run the App:
+Click the "Run" button in Xcode to build and run the Anti-Motivation App on your connected iOS device. Xcode will install the app on your device.
+
+### 7. Trust Developer Certificate:
+If prompted, on your iOS device, go to "Settings" > "General" > "Device Management" (or "Profiles & Device Management") and trust the developer certificate associated with your Apple ID.
+
+### 8. Launch the App:
+Once the app is installed, you can launch it from your device's home screen.
+
+
+## Contributing
+
+Contributions to the Anti-Motivation App are welcome! If you have ideas for new features, anti-motivational quotes, or bug fixes, please submit a pull request.
+
+## License
+
+This project does not currently have a specific open-source license. You are free to view and use the code for personal purposes, but please contact the project owner for any further permissions or licensing inquiries.
+
+## Contact
+
+If you have any questions or feedback, feel free to contact me at sam@bowerman.org
+
+
+---
